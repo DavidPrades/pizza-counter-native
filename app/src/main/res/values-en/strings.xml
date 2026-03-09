@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Counter</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_history">History</string>
+    <string name="tab_stats">Stats</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="pizzas_today">Pizzas today</string>
+    <string name="add_pizza">+ Pizza</string>
+    <string name="choose_type">Choose pizza type</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="pizza_margarita">Margherita</string>
+    <string name="pizza_pepperoni">Pepperoni</string>
+    <string name="pizza_quattro">Four Cheese</string>
+    <string name="pizza_bbq">BBQ</string>
+    <string name="pizza_hawaiana">Hawaiian</string>
+    <string name="pizza_veggie">Veggie</string>
+    <string name="pizza_carbonara">Carbonara</string>
+
+    <string name="history_title">History</string>
+    <string name="no_history">No pizzas recorded yet.\nStart eating! 🍕</string>
+    <string name="pizzas_count">%d pizza(s)</string>
+
+    <string name="stats_title">Statistics</string>
+    <string name="total_pizzas">Total pizzas</string>
+    <string name="this_week">This week</string>
+    <string name="this_month">This month</string>
+    <string name="favorite_pizza">Favorite pizza</string>
+    <string name="best_day">Best day</string>
+    <string name="no_data">No data</string>
+
+    <string name="achievement_unlocked">Achievement unlocked!</string>
+    <string name="achievement_first">🍕 First pizza!</string>
+    <string name="achievement_10">🍕 10 pizzas!</string>
+    <string name="achievement_50">🍕 50 pizzas!</string>
+    <string name="achievement_100">🍕 100 pizzas! You\'re a legend!</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="setting_sound">Sound</string>
+    <string name="setting_vibration">Vibration</string>
+    <string name="setting_language">Language</string>
+    <string name="setting_clear_history">Clear history</string>
+    <string name="setting_version">Version</string>
+    <string name="confirm_clear">Delete all history?</string>
+    <string name="confirm_yes">Yes, delete</string>
+    <string name="confirm_no">Cancel</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_english">English</string>
+</resources>

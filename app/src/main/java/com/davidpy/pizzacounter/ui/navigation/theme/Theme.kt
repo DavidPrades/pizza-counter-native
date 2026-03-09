@@ -1,0 +1,4 @@
+/*
+This file has been emptied to resolve a theme conflict.
+The active theme is defined in PizzaCounterTheme.kt.
+*/

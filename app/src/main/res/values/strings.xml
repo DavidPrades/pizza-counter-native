@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Counter</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_history">Historial</string>
+    <string name="tab_stats">Estadísticas</string>
+    <string name="tab_settings">Ajustes</string>
+    <string name="back">Atrás</string>
+
+    <!-- Home -->
+    <string name="pizzas_today">Pizzas hoy</string>
+    <string name="add_pizza">+ Pizza</string>
+    <string name="choose_type">Elige el tipo de pizza</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- Pizza types -->
+    <string name="pizza_margarita">Margarita</string>
+    <string name="pizza_pepperoni">Pepperoni</string>
+    <string name="pizza_quattro">Cuatro Quesos</string>
+    <string name="pizza_bbq">Barbacoa</string>
+    <string name="pizza_hawaiana">Hawaiana</string>
+    <string name="pizza_veggie">Vegetariana</string>
+    <string name="pizza_carbonara">Carbonara</string>
+
+    <!-- History -->
+    <string name="history_title">Historial</string>
+    <string name="no_history">Aún no hay pizzas registradas.\n¡Empieza a comer! 🍕</string>
+    <string name="pizzas_count">%d pizza(s)</string>
+
+    <!-- Stats -->
+    <string name="stats_title">Estadísticas</string>
+    <string name="total_pizzas">Total de pizzas</string>
+    <string name="this_week">Esta semana</string>
+    <string name="this_month">Este mes</string>
+    <string name="favorite_pizza">Pizza favorita</string>
+    <string name="best_day">Mejor día</string>
+    <string name="no_data">Sin datos</string>
+
+    <!-- Achievements -->
+    <string name="achievement_unlocked">¡Logro desbloqueado!</string>
+    <string name="achievement_first">🍕 ¡Primera pizza!</string>
+    <string name="achievement_10">🍕 ¡10 pizzas!</string>
+    <string name="achievement_50">🍕 ¡50 pizzas!</string>
+    <string name="achievement_100">🍕 ¡100 pizzas! ¡Eres una leyenda!</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Ajustes</string>
+    <string name="setting_sound">Sonido</string>
+    <string name="setting_vibration">Vibración</string>
+    <string name="setting_language">Idioma</string>
+    <string name="setting_clear_history">Borrar historial</string>
+    <string name="setting_version">Versión</string>
+    <string name="confirm_clear">¿Borrar todo el historial?</string>
+    <string name="confirm_yes">Sí, borrar</string>
+    <string name="confirm_no">Cancelar</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_english">English</string>
+</resources>
