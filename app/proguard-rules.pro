@@ -1,0 +1,4 @@
+-keep class com.appodeal.** { *; }
+-keep class com.explorestack.** { *; }
+-dontwarn com.appodeal.**
+-dontwarn com.explorestack.**
